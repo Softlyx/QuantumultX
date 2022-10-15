@@ -1,5 +1,5 @@
 ###############################################################
-
+# 国内隐藏ip
 # ======= 哔哩哔哩 ======= #
 DOMAIN-SUFFIX,biliapi.net,IP
 DOMAIN-SUFFIX,biliapi.com,IP 
