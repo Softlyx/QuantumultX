@@ -1,16 +1,5 @@
 # 策略流量查询
 
-For Quantumult-X 631+ ONLY!!
-
-[task_local]
-
-event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/traffic-check.js, tag=策略流量查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Download.png, enabled=true
-
-ps. 简单查询策略/策略组流量使用统计（仅支持一/二级策略）
-
-@XIAO_KOP
-
-**/
 
 const messageTraffic = {
     action: "get_traffic_statistics"
