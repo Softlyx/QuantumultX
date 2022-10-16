@@ -1,4 +1,5 @@
 # 策略流量查询
+# 原链接https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/traffic-check.js
 
 
 const messageTraffic = {
