@@ -68,7 +68,8 @@ host-keyword, xeton.dev, Emby
 host-keyword, ppooqq.top, Emby
 ip-cidr, 205.185.125.106/32, Emby
 # Singularity
-host-keyword, singularity.deja-vu.beauty, Emby
+host-keyword, deja-vu.beauty, Emby
+host-keyword, singularity, Emby
 # 404公益服
 host-keyword, 404.sb, Emby
 # 七米蓝
