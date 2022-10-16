@@ -1,4 +1,5 @@
 # 送中查询
+# 原链接https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/switch-check-google.js
 
 /***
 
