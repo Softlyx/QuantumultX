@@ -1,0 +1,76 @@
+# 通用
+host-keyword, emby, Emby
+host-keyword, jellyfin, Emby
+# Cc公益服
+host-keyword, ccemby.tk, Emby
+# bigdongdong
+ip-cidr, 124.95.187.106, Emby
+# Misty
+host-keyword, aaa.ax, Emby
+# 品云
+host-keyword, embyplus.club, Emby
+# MJJ EMBY
+host-keyword, mjjemby.org, Emby
+# peach公益服
+host-keyword, embymv.tk, Emby
+ip-cidr, 209.97.173.144/32, Emby
+# Orange
+host-keyword, embytv.cf, Emby
+# Polo
+host-keyword, poloemby.xyz, Emby
+# 卡戎
+host-keyword, charontv.com, Emby
+# Misakaf
+host-keyword, misakaf.org, Emby
+# 垃圾影音
+host-keyword, emby.ml, Emby
+# 二次元
+host-keyword, media.nijigem.by, Emby
+# 猫熊
+host-keyword, emby.kim, Emby
+ip-cidr, 64.32.25.204/32, Emby
+# 佛系EMBY
+host-keyword, 4545.cf, Emby
+# BlueSea
+host-keyword, blueseamusics.com, Emby
+host-keyword, blueseacdn.com, Emby
+# 奶库
+host-keyword, nakonako.net, Emby
+host-keyword, nakoemby.com, Emby
+ip-cidr, 20.205.38.244/32, Emby
+ip-cidr, 95.217.228.36/32, Emby
+# ikoumi
+host-keyword, ikoumi.com, Emby
+# paul
+host-keyword, embypaul.top, Emby
+host-keyword, bookpan.top, Emby
+# studyfun
+host-keyword, studyfun999.xyz, Emby
+# 11盘
+host-keyword, bpking.top, Emby
+host-keyword, 11pshare.tk, Emby
+# 杰尼龟
+host-keyword, dmesg.gq, Emby
+# Infinity
+host-keyword, infinityfly.top, Emby
+# CatFish
+host-keyword, catfishemby.club, Emby
+host-keyword, 66699.tk, Emby
+# gfwemby
+ip-cidr, 202.182.105.146/32, Emby
+# NMG Flim
+host-keyword, film.nmg.llc, Emby
+# Pornemby-网抑云
+ip-cidr, 195.201.86.86/32, Emby
+# 普拉斯
+host-keyword, xeton.dev, Emby
+# 啸风
+host-keyword, ppooqq.top, Emby
+# Singularity
+host-keyword, singularity.deja-vu.beauty, Emby
+# 404公益服
+host-keyword, 404.sb, Emby
+# 七米蓝
+host-keyword, chirmyram.com, Emby
+# 开心520
+host-keyword, ucu520.top, Emby
