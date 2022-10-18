@@ -14,7 +14,7 @@
 
 [rewrite_local]
 
-^https?:\/\/.*\.example\.com url script-analyze-echo-response https://raw.githubusercontent.com/Softlyx/QuantumultX/main/Scripts/aliyun.js
+^https?:\/\/.*\.example\.com url script-analyze-echo-response https://raw.githubusercontent.com/Softlyx/QuantumultX/main/rewrite/aliyun.js
 
 [mitm]
 
