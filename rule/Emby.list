@@ -4,6 +4,7 @@ host-keyword, jellyfin, Emby
 # Cc公益服
 host-keyword, ccemby.tk, Emby
 # bigdongdong
+host-keyword, bddup.com, Emby
 ip-cidr, 124.95.187.106/32, Emby
 # Misty
 host-keyword, aaa.ax, Emby
