@@ -71,6 +71,8 @@ ip-cidr, 205.185.125.106/32, Emby
 # Singularity
 host-keyword, deja-vu.beauty, Emby
 host-keyword, singularity, Emby
+# 白嫖王
+host-keyword, ywang.cf, Emby
 # 404公益服
 host-keyword, 404.sb, Emby
 # 七米蓝
