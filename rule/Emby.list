@@ -1,6 +1,3 @@
-# 通用
-host-keyword, emby, Emby
-host-keyword, jellyfin, Emby
 # Cc公益服
 host-keyword, ccemby.tk, Emby
 # bigdongdong
@@ -81,3 +78,6 @@ host-keyword, 404.sb, Emby
 host-keyword, chirmyram.com, Emby
 # 开心520
 host-keyword, ucu520.top, Emby
+# 通用
+host-keyword, emby, Emby
+host-keyword, jellyfin, Emby
