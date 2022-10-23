@@ -1,3 +1,4 @@
+#原链接https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/TikTok.list
 # > TikTok
 USER-AGENT,TikTok*
 DOMAIN-SUFFIX,byteoversea.com
