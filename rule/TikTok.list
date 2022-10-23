@@ -1,25 +1,13 @@
-#原链接https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/TikTok/TikTok.list
-# NAME: TikTok
-# UPDATED: 2022-10-18 21:03:53
-# HOST: 1
-# HOST-KEYWORD: 2
-# HOST-SUFFIX: 13
-# USER-AGENT: 1
-# TOTAL: 17
-HOST,p16-tiktokcdn-com.akamaized.net,TikTok
-HOST-SUFFIX,byteoversea.com,TikTok
-HOST-SUFFIX,ibytedtos.com,TikTok
-HOST-SUFFIX,ibyteimg.com,TikTok
-HOST-SUFFIX,ipstatp.com,TikTok
-HOST-SUFFIX,isnssdk.com,TikTok
-HOST-SUFFIX,muscdn.com,TikTok
-HOST-SUFFIX,musical.ly,TikTok
-HOST-SUFFIX,sgpstatp.com,TikTok
-HOST-SUFFIX,snssdk.com,TikTok
-HOST-SUFFIX,tik-tokapi.com,TikTok
-HOST-SUFFIX,tiktok.com,TikTok
-HOST-SUFFIX,tiktokcdn.com,TikTok
-HOST-SUFFIX,tiktokv.com,TikTok
-HOST-KEYWORD,musical.ly,TikTok
-HOST-KEYWORD,tiktok,TikTok
-USER-AGENT,TikTok*,TikTok
+#原链接https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/TikTok.list
+# > TikTok
+USER-AGENT,TikTok*
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-KEYWORD,tiktokcdn-
