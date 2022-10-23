@@ -1,3 +1,4 @@
+#原链接https://gaoyifan.github.io/china-operator-ip/chinanet6.txt
 2001:dc7:cd1a::/48
 2001:dd8:1::/48
 2400:5280:f803::/48
