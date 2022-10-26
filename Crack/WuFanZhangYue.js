@@ -8,7 +8,7 @@
 
 [rewrite_local]
 # 悟饭游戏破解VIP A+
-http:\/\/iosv2\.cjapi\.wufan88\.com\/user\/.+ url script-response-body https://raw.githubusercontent.com/chxm1023/QX/main/Scripts/wfzy.js
+http:\/\/iosv2\.cjapi\.wufan88\.com\/user\/.+ url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/Crack/WuFanZhangYue.js
 
 
 [mitm] 
