@@ -2,7 +2,6 @@
 
 * ==UserScript==
 * @ScriptName        FileBall挂载阿里云盘、Alist
-* @Author            @Cuttlefish
 * @UpdateTime        2022-09-13
 * @ScriptFunction    FileBall挂载阿里云盘、Alist，播放云盘中的音乐和视频文件
 * @Attention         如需引用请注明出处，谢谢合作！
