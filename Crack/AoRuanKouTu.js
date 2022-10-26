@@ -8,7 +8,7 @@
  
 [rewrite_local]
 
-# ～ 傲软抠图解锁会员权限（2022-09-13）@ddgksf2013
+# ～ 傲软抠图解锁会员权限（2022-09-13）
 https?:\/\/.*\.aoscdn\.com\/base\/vip\/client\/authorizations$ url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/Crack/AoRuanKouTu.js
 
 [mitm] 
