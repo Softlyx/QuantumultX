@@ -5,7 +5,7 @@ CamScanner 解锁部分高级特权
 ***************************
 
 [rewrite_local]
-^https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\? url script-response-body https://raw.githubusercontent.com/githubdulong/Script/master/CamScanner.js
+^https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\? url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/Crack/ScannerPro.js
 
 [mitm]
 hostname = ap*.intsig.net
