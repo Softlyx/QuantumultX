@@ -47,6 +47,7 @@ host-keyword, studyfun999.xyz, Emby
 # 11盘
 host-keyword, bpking.top, Emby
 host-keyword, 11pshare.tk, Emby
+ip-cidr, 18.141.10.156/32, Emby
 # 杰尼龟
 host-keyword, dmesg.gq, Emby
 # viper
