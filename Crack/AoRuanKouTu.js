@@ -19,27 +19,8 @@ hostname=*.aoscdn.com
 
 
 
-var cuttlefish ={"warning":"本腳本僅供學習交流使用，禁止轉載售賣"};
-var ddgksf2013 = {
-  "status" : 200,
-  "message" : "success",
-  "data" : {
-    "expired_at" : 4045798296,
-    "is_activated" : 1,
-    "is_lifetime" : 1,
-    "expire_time" : "2099-01-01 00:00:00",
-    "device_id" : 600150864,
-    "period_type" : "active",
-    "remain_days" : 99999,
-    "product_id" : 369,
-    "has_present" : 0,
-    "allowed_device_count" : 1,
-    "has_buy_extend" : 0,
-    "will_expire" : 0,
-    "license_type" : "premium",
-    "begin_activated_time" : 1645798296,
-    "durations" : 0,
-    "vip_special" : 1
-  }
-};
-$done({body: JSON.stringify(Softly)});
+var body = $response.body; 
+ var objk = JSON.parse(body); 
+   objk = {"status":200,"message":"success","data":{"license_type":"free","period_type":"trial","is_activated":1,"remain_days":0,"will_expire":1,"allowed_device_count":1,"begin_activated_time":1662783235,"durations":0,"vip_special":0,"has_buy_extend":0,"has_present":0,"product_id":369,"is_lifetime":0,"expired_at":253395492741,"expire_time":"9999-01-01 00:00:00","candy":0,"candy_expired_at":0,"device_id":2700581012,"exist_trial":0}} 
+ body = JSON.stringify(objk); 
+   $done({body}); 
