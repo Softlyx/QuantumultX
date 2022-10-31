@@ -7,11 +7,12 @@
 [rewrite_local]
 
 # ～ 傲软解锁会员权限
+^https?:\/\/gw\.aoscdn\.com\/base\/vip\/client\/authorizations$ url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/Crack/AoRuanKouTu.js
 ^https?:\/\/.*\.aoscdn\.com\/base\/vip\/client\/authorizations$ url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/Crack/AoRuanKouTu.js
 
 [mitm] 
 
-hostname=*.aoscdn.com
+hostname=gw.aoscdn.com
 
 ***********************************/
 
