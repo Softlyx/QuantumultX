@@ -1,14 +1,12 @@
 /***********************************
 
-> 应用名称：傲软抠图
-> 软件版本：1.6.0
-> 下载地址：https://apps.apple.com/cn/app/id1490054676
-> 更新时间：2022-09-13
+> 应用名称：傲软
+> 更新时间：2022-10-31
 > 特别说明：本脚本仅供学习交流使用，禁止转载售卖
  
 [rewrite_local]
 
-# ～ 傲软抠图解锁会员权限（2022-09-13）
+# ～ 傲软解锁会员权限
 ^https?:\/\/.*\.aoscdn\.com\/base\/vip\/client\/authorizations$ url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/Crack/AoRuanKouTu.js
 
 [mitm] 
