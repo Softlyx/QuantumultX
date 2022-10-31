@@ -8,7 +8,7 @@
 
 [rewrite_local]
 
-^https?:\/\/.*\.aoscdn\.com\/base\/vip\/client\/authorizations url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/Crack/AoRuanKouTu.js
+^https?:\/\/.*\.aoscdn\.com\/base\/vip\/client\/authorizations url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/Crack/AoRuan.js
 
 [mitm]
 
