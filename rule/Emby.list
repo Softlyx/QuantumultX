@@ -75,6 +75,9 @@ host-keyword, singularity, Emby
 host-keyword, ywang.cf, Emby
 # hxd
 host-keyword, 222921.xyz, Emby
+# xiangling
+ip-cidr, 152.67.227.57/32, Emby
+host-keyword, 20120714.xyz, Emby
 # 404公益服
 host-keyword, 404.sb, Emby
 # 七米蓝
