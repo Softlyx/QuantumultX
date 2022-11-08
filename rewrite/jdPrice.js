@@ -1,15 +1,23 @@
-/*
-Loon/Surge
+/****************************************
+
+项目功能：京东比价-弹窗版
+使用声明：仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
+
+*****************************************
+
+# Loon/Surge
 [Script]
-http-response ^https?://api\.m\.jd\.com/(client\.action|api)\?functionId=(wareBusiness|serverConfig|basicConfig|lite_wareBusiness|pingou_item) requires-body=1,script-path=https://raw.githubusercontent.com/Softlyx/QuantumultX/main/rewrite/jdPrice.js, tag=京东比价
+http-response ^https?://api\.m\.jd\.com/(client\.action|api)\?functionId=(wareBusiness|serverConfig|basicConfig|lite_wareBusiness|pingou_item) requires-body=1,script-path=https://raw.githubusercontent.com/chxm1023/script/main/Rewrite/jd_price_lite.js, tag=京东比价-弹窗
+
+# QuantumultX
+^https?://api\.m\.jd\.com/(client\.action|api)\?functionId=(wareBusiness|serverConfig|basicConfig|lite_wareBusiness|pingou_item) url script-response-body https://raw.githubusercontent.com/chxm1023/script/main/Rewrite/jd_price_lite.js
+
 [MITM]
 hostname = api.m.jd.com
 
-QX:
-^https?://api\.m\.jd\.com/(client\.action|api)\?functionId=(wareBusiness|serverConfig|basicConfig|lite_wareBusiness|pingou_item) url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/rewrite/jdPrice.js
-
 Boxjs订阅：https://raw.githubusercontent.com/githubdulong/Script/master/boxjs.json
-*/
+
+****************************************/
 
 const path1 = "serverConfig";
 const path2 = "wareBusiness";
@@ -55,6 +63,18 @@ switch (browser) {
         break;
     case "Alook":
         chooseBrowser = "Alook://";
+        break;
+    case "Foxok":
+        chooseBrowser = "Foxok://";
+        break;
+    case "Edge":
+        chooseBrowser = "Edge://";
+        break;
+    case "Chrome":
+        chooseBrowser = "Chrome://";
+        break;
+    case "Focus":
+        chooseBrowser = "Focus://";
         break;
     default:
         chooseBrowser = $tool.getCache("jfDIYScheme");
@@ -153,7 +173,7 @@ if (url.indexOf(path2) != -1 || url.indexOf(path4) != -1) {
 function lowerMsgs(data) {
     const lower = data.lowerPriceyh;
     const lowerDate = dateFormat(data.lowerDateyh);
-    const lowerMsg = "🍵 历史最低到手价：¥" + String(lower) + ` (${lowerDate}) `;
+    const lowerMsg = "♻️ 历史最低到手价：¥" + String(lower) + ` (${lowerDate}) `;
     return lowerMsg;
 }
 
