@@ -10,7 +10,7 @@
 
 [rewrite_local]
 
-^https://files.yuchenglw.com url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/Crack/SeseVideo.js
+^https://files.yuchenglw.com url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/SeseVideo/SeseVideo.js
 
 [mitm] 
 
