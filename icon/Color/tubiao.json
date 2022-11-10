@@ -1,1 +1,37 @@
-1
+{
+"name":"Color Icon", 
+"description":"QuantumultX Color Icon", 
+"icons":
+    [
+         {"name":"Available", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Available.png"},
+	       {"name":"Enet", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Enet.png"},
+	       {"name":"Roundrobin", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Roundrobin.png"},
+	       {"name":"Static", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Static.png"},
+      	 {"name":"Urltest", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Urltest.png"},
+      	 {"name":"Touhou", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Touhou.png"},
+	       {"name":"SSID", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/SSID.png"},
+	       {"name":"Shandian", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Shandian.png"},
+      	 {"name":"Speedtest", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Speedtest.png"},
+      	 {"name":"Final", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Final.png"},
+      	 {"name":"CN", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/CN.png"},
+      	 {"name":"HK", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/HK.png"},
+      	 {"name":"TW", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/TW.png"},
+      	 {"name":"MO", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/MO.png"},
+      	 {"name":"JP", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/JP.png"},
+      	 {"name":"SG", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/SG.png"},
+      	 {"name":"VN", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/VN.png"},
+      	 {"name":"KR", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/KR.png"},
+      	 {"name":"US", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/US.png"},
+      	 {"name":"RU", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/RU.png"},
+      	 {"name":"UK", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/UK.png"},
+      	 {"name":"CA", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/CA.png"},
+      	 {"name":"AU", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/AU.png"},
+      	 {"name":"DE", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/DE.png"},
+      	 {"name":"FR", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/FR.png"},
+      	 {"name":"TH", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/TH.png"},
+      	 {"name":"TR", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/TR.png"},
+      	 {"name":"UN", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/UN.png"},
+      	 {"name":"XD", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/XD.png"},
+      	 {"name":"GAME", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/GAME.png"}
+    ]
+}
