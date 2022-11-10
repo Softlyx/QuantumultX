@@ -4,13 +4,13 @@
 "icons":
     [
          {"name":"Available", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Available.png"},
-	       {"name":"Enet", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Enet.png"},
-	       {"name":"Roundrobin", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Roundrobin.png"},
-	       {"name":"Static", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Static.png"},
+	 {"name":"Enet", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Enet.png"},
+	 {"name":"Roundrobin", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Roundrobin.png"},
+	 {"name":"Static", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Static.png"},
       	 {"name":"Urltest", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Urltest.png"},
       	 {"name":"Touhou", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Touhou.png"},
-	       {"name":"SSID", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/SSID.png"},
-	       {"name":"Shandian", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Shandian.png"},
+	 {"name":"SSID", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/SSID.png"},
+	 {"name":"Shandian", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Shandian.png"},
       	 {"name":"Speedtest", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Speedtest.png"},
       	 {"name":"Final", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/Final.png"},
       	 {"name":"CN", "url":"https://raw.githubusercontent.com/Softlyx/QuantumultX/main/icon/Color/CN.png"},
