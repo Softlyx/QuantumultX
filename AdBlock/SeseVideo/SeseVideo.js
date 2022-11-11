@@ -23,22 +23,18 @@ hostname = files.yuchenglw.com
 
 
 var body=$response.body;
-body = body.replace(/(<div class="banner">)[\s\S[\d\D]{0,999}(<\/div>)/g,'<!--  -->');
 
+body = body.replace(/(<div class="banner">)(.*?)(<\/div>)/g,'<!--  -->');
+
+body = body.replace(/(<div class="banner ">)[\s\S[\d\D]{0,999}(<\/div>)/g,'<!--  -->');
 
 body = body.replace(/(<div class="speaker">)[\s\S[\d\D]{0,345}(<\/div>)/g,'<!--  -->');
 
-
 body = body.replace(/(<div id="popup">)[\s\S[\d\D]{0,1539}(<\/div>)/g,'<!--  -->');
-
-
 
 body = body.replace(/(<div class="float-app">)[\s\S[\d\D]{0,345}(<\/div>)/g,'<!--  -->');
 
-
-
 body = body.replace(/(<div id="carousel")[\s\S[\d\D]{0,1777}(<\/div>)/g,'<!--  -->');
-
 
 body = body.replace(/(<div class="header fixed-top">)[\s\S[\d\D]{0,345}(<\/div>)/g,'<!--  -->');
 
