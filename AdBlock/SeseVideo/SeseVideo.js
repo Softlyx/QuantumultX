@@ -23,7 +23,7 @@ hostname = files.yuchenglw.com
 
 
 var body=$response.body;
-body = body.replace(/(<div class="banner mt-3">)[\s\S[\d\D]{0,999}(<\/div>)/g,'<!--  -->');
+body = body.replace(/(<div class="banner\smt-3">)[\s\S[\d\D]{0,999}(<\/div>)/g,'<!--  -->');
 
 
 body = body.replace(/(<div class="speaker">)[\s\S[\d\D]{0,345}(<\/div>)/g,'<!--  -->');
