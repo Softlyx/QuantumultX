@@ -52,6 +52,8 @@ ip-cidr, 18.141.10.156/32, Emby
 host-keyword, dmesg.gq, Emby
 # 萌萌
 host-keyword, syq0806.top, Emby
+#星光
+host-keyword, sana.emby.eu.org, Emby
 # viper
 host-keyword, agon.cf, Emby
 # EmbyX
