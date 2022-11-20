@@ -29,6 +29,8 @@ host-keyword, emby.kim, Emby
 ip-cidr, 64.32.25.204/32, Emby
 # 佛系EMBY
 host-keyword, 4545.cf, Emby
+# XMSS
+host-keyword, xmss.vip, Emby
 # BlueSea
 host-keyword, blueseamusics.com, Emby
 host-keyword, blueseacdn.com, Emby
@@ -52,7 +54,7 @@ ip-cidr, 18.141.10.156/32, Emby
 host-keyword, dmesg.gq, Emby
 # 萌萌
 host-keyword, syq0806.top, Emby
-#星光
+# 星光
 host-keyword, sana.emby.eu.org, Emby
 # viper
 host-keyword, agon.cf, Emby
