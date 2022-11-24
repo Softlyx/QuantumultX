@@ -67,6 +67,8 @@ host-keyword, infinityfly.top, Emby
 # CatFish
 host-keyword, catfishemby.club, Emby
 host-keyword, 66699.tk, Emby
+# More
+host-keyword, moreemby.com, Emby
 # gfwemby
 ip-cidr, 202.182.105.146/32, Emby
 # NMG Flim
