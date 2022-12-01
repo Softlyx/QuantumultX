@@ -71,6 +71,9 @@ host-keyword, 66699.tk, Emby
 host-keyword, moreemby.com, Emby
 # gfwemby
 ip-cidr, 202.182.105.146/32, Emby
+# o9o
+host-keyword, o9o.nl, Emby
+host-keyword, titams.xyz, Emby
 # NMG Flim
 host-keyword, film.nmg.llc, Emby
 # Pornemby-网抑云
