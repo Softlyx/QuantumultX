@@ -18,6 +18,7 @@ user-agent, avos*, 广告拦截
 # HDOBOX影视App去广告
 host-suffix, applovin.com, 广告拦截
 host-suffix, applvn.com, 广告拦截
+host-suffix, doubleclick.net, 广告拦截
 
 # 网络播放去广告
 host, googleads.g.doubleclick.net, 广告拦截
