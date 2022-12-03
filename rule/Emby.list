@@ -56,6 +56,9 @@ ip-cidr, 18.141.10.156/32, Emby
 host-keyword, dmesg.gq, Emby
 # 萌萌
 host-keyword, syq0806.top, Emby
+# xiangling
+ip-cidr, 152.67.227.57/32, Emby
+host-keyword, 20120714.xyz, Emby
 # 星光
 host-keyword, sana.emby.eu.org, Emby
 # viper
@@ -71,6 +74,7 @@ host-keyword, 66699.tk, Emby
 host-keyword, moreemby.com, Emby
 # gfwemby
 ip-cidr, 202.182.105.146/32, Emby
+host-keyword, gfwemby.org, Emby
 # o9o
 host-keyword, o9o.nl, Emby
 host-keyword, titams.xyz, Emby
@@ -90,9 +94,6 @@ host-keyword, singularity, Emby
 host-keyword, ywang.cf, Emby
 # hxd
 host-keyword, 222921.xyz, Emby
-# xiangling
-ip-cidr, 152.67.227.57/32, Emby
-host-keyword, 20120714.xyz, Emby
 # 404公益服
 host-keyword, 404.sb, Emby
 # 七米蓝
