@@ -22,6 +22,8 @@ ip-cidr, 64.32.25.204/32, Emby
 host-keyword, embyplus.club, Emby
 # 卡戎
 host-keyword, charontv.com, Emby
+# 星云
+host-keyword, nebula-emby.com, Emby
 # ikoumi
 host-keyword, ikoumi.com, Emby
 # 二次元
