@@ -65,6 +65,8 @@ host-keyword, moreemby.com, Emby
 # gfwemby
 ip-cidr, 202.182.105.146/32, Emby
 host-keyword, gfwemby.org, Emby
+# acemby
+host-keyword, acemby.org, Emby
 # bpking
 host-keyword, bpking.top, Emby
 # paul
