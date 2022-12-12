@@ -5,6 +5,7 @@ ip-cidr, 124.95.187.106/32, Emby
 host-keyword, mjjemby.org, Emby
 # Misty
 host-keyword, aaa.ax, Emby
+host-keyword, misty.ltd, Emby
 # Infinity
 host-keyword, infinityfly.top, Emby
 # 佛系EMBY
