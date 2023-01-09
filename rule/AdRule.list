@@ -36,4 +36,4 @@ ip-cidr,180.76.76.200/32,广告拦截
 host,im.tieba.baidu.com,广告拦截
 
 # 高德地图
-host, amdc.m.taobao.com, reject
+host, amdc.m.taobao.com, 广告拦截
