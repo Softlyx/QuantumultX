@@ -32,5 +32,8 @@ host, hub5emu.v6.shub.sandai.net, 广告拦截
 host, hub5btmain.v6.shub.sandai.net, 广告拦截
 
 # 贴吧AD处理
-IP-CIDR,180.76.76.200/32,广告拦截
-HOST,im.tieba.baidu.com,广告拦截
+ip-cidr,180.76.76.200/32,广告拦截
+host,im.tieba.baidu.com,广告拦截
+
+# 高德地图
+host, amdc.m.taobao.com, reject
