@@ -1,3 +1,5 @@
+# Odyssey+
+host-keyword, odysseyplus, Emby
 # bigdongdong
 host-keyword, bddup.com, Emby
 ip-cidr, 124.95.187.106/32, Emby
@@ -79,7 +81,7 @@ host-keyword, 20120714.xyz, Emby
 # 萌萌
 host-keyword, syq0806.top, Emby
 # studyfun
-host-keyword, studyfun999.xyz, Emby
+host-keyword, studyfun, Emby
 # 杰尼龟
 host-keyword, dmesg.gq, Emby
 # 星光
