@@ -10,7 +10,7 @@
 [rewrite_local]
 
 # > 阿里云盘_首页设置
-^https?:\/\/api\.aliyundrive\.com\/apps\/v\d\/users\/(apps|home)\/widgets$ url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/Aliyun/aliyun.jsjs
+^https?:\/\/api\.aliyundrive\.com\/apps\/v\d\/users\/(apps|home)\/widgets$ url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/Aliyun/aliyun.js
 # > 阿里云盘_欢迎语设置
 https://api.aliyundrive.com/apps/v1/users/apps/welcome url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/Aliyun/aliyun.js
 # > 阿里云盘_我的页面VIP卡片
