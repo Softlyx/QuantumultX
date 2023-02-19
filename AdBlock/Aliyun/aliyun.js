@@ -10,21 +10,21 @@
 [rewrite_local]
 
 # > 阿里云盘_首页设置
-^https?:\/\/api\.aliyundrive\.com\/apps\/v\d\/users\/(apps|home)\/widgets$ url script-response-body https://gist.githubusercontent.com/ddgksf2013/f4752e632fd3375ea2811985c5b635dc/raw/alicloud.js
+^https?:\/\/api\.aliyundrive\.com\/apps\/v\d\/users\/(apps|home)\/widgets$ url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/Aliyun/aliyun.jsjs
 # > 阿里云盘_欢迎语设置
-https://api.aliyundrive.com/apps/v1/users/apps/welcome url script-response-body https://gist.githubusercontent.com/ddgksf2013/f4752e632fd3375ea2811985c5b635dc/raw/alicloud.js
+https://api.aliyundrive.com/apps/v1/users/apps/welcome url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/Aliyun/aliyun.js
 # > 阿里云盘_我的页面VIP卡片
-https://api.aliyundrive.com/business/v1/users/me/vip/info url script-response-body https://gist.githubusercontent.com/ddgksf2013/f4752e632fd3375ea2811985c5b635dc/raw/alicloud.js
+https://api.aliyundrive.com/business/v1/users/me/vip/info url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/Aliyun/aliyun.js
 # > 阿里云盘_我的页面处理
-https://member.aliyundrive.com/v1/users/tools url script-response-body https://gist.githubusercontent.com/ddgksf2013/f4752e632fd3375ea2811985c5b635dc/raw/alicloud.js
+https://member.aliyundrive.com/v1/users/tools url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/Aliyun/aliyun.js
 # > 阿里云盘_我的信息
-https://member.aliyundrive.com/v1/users/me url script-response-body https://gist.githubusercontent.com/ddgksf2013/f4752e632fd3375ea2811985c5b635dc/raw/alicloud.js
+https://member.aliyundrive.com/v1/users/me url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/Aliyun/aliyun.js
 # > 阿里云盘_会员信息
-https://api.aliyundrive.com/business/v1.0/users/vip/info url script-response-body https://gist.githubusercontent.com/ddgksf2013/f4752e632fd3375ea2811985c5b635dc/raw/alicloud.js
+https://api.aliyundrive.com/business/v1.0/users/vip/info url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/Aliyun/aliyun.js
 # > 阿里云盘_个人信息
-https://api.aliyundrive.com/v2/databox/get_personal_info url script-response-body https://gist.githubusercontent.com/ddgksf2013/f4752e632fd3375ea2811985c5b635dc/raw/alicloud.js
+https://api.aliyundrive.com/v2/databox/get_personal_info url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/Aliyun/aliyun.js
 # > 阿里云盘_列表属性
-https://api.aliyundrive.com/business/v1.0/users/feature/list url script-response-body https://gist.githubusercontent.com/ddgksf2013/f4752e632fd3375ea2811985c5b635dc/raw/alicloud.js
+https://api.aliyundrive.com/business/v1.0/users/feature/list url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/Aliyun/aliyun.js
 
 [mitm] 
 
