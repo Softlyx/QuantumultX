@@ -1,9 +1,10 @@
-# ======= 高德地图 ======= #
-# 2023-02-19 15:20
 # 原链接 https://github.com/RuCu6/QuanX/tree/main/Rewrites/Cube
+# ======= 高德地图 ======= #
+# 2023-02-21 09:20
 
 # 导航详情页,路线规划,地点详情页
 ^https:\/\/m5\.amap\.com\/ws\/faas\/amap-navigation\/card-service-route-plan\? url reject-dict
+^https:\/\/m5\.amap\.com\/ws\/shield\/search\/new_hotword\? url reject-dict
 ^https:\/\/m5\.amap\.com\/ws\/shield\/search\/poi\/detail\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/amap.js
 ^https:\/\/m5\.amap\.com\/ws\/shield\/search_poi\/(city_feed|tips_adv)\? url reject-dict
 ^https:\/\/m5\.amap\.com\/ws\/shield\/search_poi\/tips_operation_location\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/amap.js
