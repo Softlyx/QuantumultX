@@ -38,6 +38,7 @@ ip-cidr, 209.97.173.144/32, Emby
 host-keyword, embytv.cf, Emby
 # Polo
 host-keyword, poloemby.xyz, Emby
+host-keyword, pololine.ml, Emby
 # BlueSea蓝海
 host-keyword, blueseamusics.com, Emby
 host-keyword, blueseacdn.com, Emby
