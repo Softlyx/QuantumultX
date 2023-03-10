@@ -1,6 +1,6 @@
 # 原链接 https://github.com/RuCu6/QuanX/tree/main/Rewrites/Cube
 # ======= 高德地图 ======= #
-# 2023-03-07 18:25
+# 2023-03-09 12:20
 
 # 导航详情页,路线规划,地点详情页
 ^https:\/\/m5\.amap\.com\/ws\/faas\/amap-navigation\/card-service-route-plan\? url reject-dict
@@ -37,5 +37,6 @@
 # 打车页,红点角标,弹窗,卡片
 ^https:\/\/m5-zb\.amap\.com\/ws\/boss\/order(_web\/friendly_information|\/car\/king_toolbox_car_bubble)\? url reject-dict
 ^https:\/\/m5-zb\.amap\.com\/ws\/promotion-web\/resource\?? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/amap.js
+^https:\/\/m5-zb\.amap\.com\/ws\/sharedtrip\/taxi\/order_detail_car_tips\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/amap.js
 
 hostname = m5.amap.com, m5-zb.amap.com, mps.amap.com, sns.amap.com
