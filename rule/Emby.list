@@ -10,8 +10,6 @@ host-keyword, aaa.ax, Emby
 host-keyword, misty.ltd, Emby
 # Infinity
 host-keyword, infinityfly.top, Emby
-# 佛系EMBY
-host-keyword, 4545.cf, Emby
 # Cc公益服
 host-keyword, ccemby.tk, Emby
 # 垃圾影音
@@ -52,27 +50,13 @@ ip-cidr, 95.217.228.36/32, Emby
 host-keyword, ywang.cf, Emby
 # hxd
 host-keyword, 222921.xyz, Emby
-# XMSS
-host-keyword, xmss.vip, Emby
-# EmbyX拨浪鼓
-host-keyword, embyx.one, Emby
 # viper
 host-keyword, agon.cf, Emby
-# o9o大鸟转转酒吧
-host-keyword, o9o.nl, Emby
-host-keyword, titams.xyz, Emby
 # CatFish
 host-keyword, catfishemby.club, Emby
 host-keyword, 66699.tk, Emby
-# More
-host-keyword, moreemby.com, Emby
-# gfwemby
-ip-cidr, 202.182.105.146/32, Emby
-host-keyword, gfwemby.org, Emby
 # acemby
 host-keyword, acemby.org, Emby
-# bpking
-host-keyword, bpking.top, Emby
 # paul
 host-keyword, embypaul.top, Emby
 host-keyword, bookpan.top, Emby
@@ -91,26 +75,14 @@ host-keyword, sana.emby.eu.org, Emby
 host-keyword, 11pshare.tk, Emby
 host-keyword, happyav.eu.org, Emby
 ip-cidr, 18.141.10.156/32, Emby
-# Singularity
-host-keyword, deja-vu.beauty, Emby
-host-keyword, singularity, Emby
 # NMG Flim
 host-keyword, film.nmg.llc, Emby
+# 纸片人
+host-keyword, embyplus.org, Emby
 # Pornemby-网抑云
 ip-cidr, 195.201.86.86/32, Emby
-# 普拉斯
-host-keyword, xeton.dev, Emby
-# 啸风
-host-keyword, ppooqq.top, Emby
-ip-cidr, 205.185.125.106/32, Emby
-# 404公益服
-host-keyword, 404.sb, Emby
-# 七米蓝
-host-keyword, chirmyram.com, Emby
 # 开心520
 host-keyword, ucu520.top, Emby
-# 相声小品
-host-keyword, xiaoya.pro, Emby
 # 通用
 host-keyword, emby, Emby
 host-keyword, jellyfin, Emby
