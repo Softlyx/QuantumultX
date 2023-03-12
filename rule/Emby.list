@@ -79,6 +79,8 @@ ip-cidr, 18.141.10.156/32, Emby
 host-keyword, film.nmg.llc, Emby
 # 纸片人
 host-keyword, embyplus.org, Emby
+# Moonlight
+host-keyword, 1100000.xyz, Emby
 # Pornemby-网抑云
 ip-cidr, 195.201.86.86/32, Emby
 # 开心520
