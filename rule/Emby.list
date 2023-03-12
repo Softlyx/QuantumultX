@@ -81,6 +81,8 @@ host-keyword, film.nmg.llc, Emby
 host-keyword, embyplus.org, Emby
 # Moonlight
 host-keyword, 1100000.xyz, Emby
+# Mulgore
+host-keyword, 202.61.255.248, Emby
 # Pornemby-网抑云
 ip-cidr, 195.201.86.86/32, Emby
 # 开心520
