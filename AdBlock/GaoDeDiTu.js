@@ -1,6 +1,11 @@
 # 原链接 https://github.com/RuCu6/QuanX/tree/main/Rewrites/Cube
 # ======= 高德地图 ======= #
-# 2023-03-09 12:20
+# 2023-03-16 22:10
+
+# 其他
+^http:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch$ url reject-dict
+^https:\/\/m5\.amap\.com\/ws\/asa\/ads_attribution\? url reject-dict
+^https:\/\/m5\.amap\.com\/ws\/shield\/scene\/recommend\? url reject-dict
 
 # 导航详情页,路线规划,地点详情页
 ^https:\/\/m5\.amap\.com\/ws\/faas\/amap-navigation\/card-service-route-plan\? url reject-dict
@@ -26,10 +31,6 @@
 
 # 附近页
 ^https:\/\/m5\.amap\.com\/ws\/shield\/search\/nearbyrec_smart\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/amap.js
-
-# 其他
-^https:\/\/m5\.amap\.com\/ws\/asa\/ads_attribution\? url reject-dict
-^https:\/\/m5\.amap\.com\/ws\/shield\/scene\/recommend\? url reject-dict
 
 # 开屏广告
 ^https:\/\/m5\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\? url script-response-body https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/amap.js
