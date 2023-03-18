@@ -83,10 +83,10 @@ host-keyword, embyplus.org, Emby
 host-keyword, 1100000.xyz, Emby
 # Mulgore
 host-keyword, 202.61.255.248, Emby
+# tank
+host-keyword, tank88.top, Emby
 # Pornemby-网抑云
 ip-cidr, 195.201.86.86/32, Emby
-# 开心520
-host-keyword, ucu520.top, Emby
 # 通用
 host-keyword, emby, Emby
 host-keyword, jellyfin, Emby
