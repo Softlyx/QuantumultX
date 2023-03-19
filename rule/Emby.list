@@ -60,6 +60,8 @@ host-keyword, acemby.org, Emby
 # paul
 host-keyword, embypaul.top, Emby
 host-keyword, bookpan.top, Emby
+# Lion
+ip-cidr, 139.9.61.95/32, Emby
 # 翔翎 野鸡服
 ip-cidr, 152.67.227.57/32, Emby
 host-keyword, 20120714.xyz, Emby
