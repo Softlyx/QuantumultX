@@ -78,6 +78,9 @@ host-keyword, sana.emby.eu.org, Emby
 host-keyword, 11pshare.tk, Emby
 host-keyword, happyav.eu.org, Emby
 ip-cidr, 18.141.10.156/32, Emby
+# Mildnes
+host-keyword, 091321.xyz, Emby
+host-keyword, usxx.xyz, Emby
 # NMG Flim
 host-keyword, film.nmg.llc, Emby
 # 纸片人
