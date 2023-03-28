@@ -25,3 +25,5 @@ DOMAIN,analytics.strava.com
 # > Umeng
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
+# > 微博
+host, sdkapp.uve.weibo.com, direct
