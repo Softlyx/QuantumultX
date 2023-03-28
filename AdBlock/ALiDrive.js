@@ -9,7 +9,7 @@
 **************************************
 
 [rewrite_local]
-^https?:\/\/(api|member)\.aliyundrive\.com url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/alidrive.js
+^https?:\/\/(api|member)\.aliyundrive\.com url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/ALiDrive.js
 
 [mitm]
 hostname = *.aliyundrive.com
