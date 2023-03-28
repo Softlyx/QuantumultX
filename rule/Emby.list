@@ -1,100 +1,114 @@
-# Odyssey+
-host-keyword, odysseyplus, Emby
-# bigdongdong
-host-keyword, bddup.com, Emby
-ip-cidr, 124.95.187.106/32, Emby
-# MJJ EMBY
-host-keyword, mjjemby.org, Emby
-# Misty
-host-keyword, aaa.ax, Emby
-host-keyword, misty.ltd, Emby
-# Infinity
-host-keyword, infinityfly.top, Emby
+# Acemby
+HOST-KEYWORD,acemby.org
+
+# BDD
+HOST-KEYWORD,bddup.com
+IP-CIDR,124.95.187.106/32
+# BlueSea
+HOST-KEYWORD,blueseamusics.com
+HOST-KEYWORD,blueseacdn.com
+HOST-KEYWORD,bsem.ddns.me
+# B白嫖王
+HOST-KEYWORD,ywang.cf
+
 # Cc公益服
-host-keyword, ccemby.tk, Emby
-# 垃圾影音
-host-keyword, emby.ml, Emby
-# Misakaf
-host-keyword, misakaf.org, Emby
-# 猫熊
-host-keyword, emby.kim, Emby
-ip-cidr, 64.32.25.204/32, Emby
-# 品云
-host-keyword, embyplus.club, Emby
-# 卡戎
-host-keyword, charontv.com, Emby
-# 星云
-host-keyword, nebula-emby.com, Emby
+HOST-KEYWORD,ccemby.tk
+
+# G国际服
+HOST-KEYWORD,11pshare.tk
+HOST-KEYWORD,semby.ink
+IP-CIDR,18.141.10.156/32
+
+# Hxd
+HOST-KEYWORD,222921.xyz
+HOST-KEYWORD,bili.rip
+
+# Infinity
+HOST-KEYWORD,infinityfly.top
 # ikoumi
-host-keyword, ikoumi.com, Emby
-# 二次元
-host-keyword, media.nijigem.by, Emby
-# peach公益服
-host-keyword, embymv.tk, Emby
-ip-cidr, 209.97.173.144/32, Emby
-# Orange
-host-keyword, embytv.cf, Emby
-# Polo
-host-keyword, poloemby.xyz, Emby
-host-keyword, pololine.ml, Emby
-# BlueSea蓝海
-host-keyword, blueseamusics.com, Emby
-host-keyword, blueseacdn.com, Emby
-host-keyword, bsem.ddns.me, Emby
-# 奶库
-host-keyword, nakonako.net, Emby
-host-keyword, nakoemby.com, Emby
-ip-cidr, 20.205.38.244/32, Emby
-ip-cidr, 95.217.228.36/32, Emby
-# 白嫖王
-host-keyword, ywang.cf, Emby
-# hxd
-host-keyword, 222921.xyz, Emby
-host-keyword, bili.rip, Emby
-# viper
-host-keyword, agon.cf, Emby
-# CatFish
-host-keyword, catfishemby.club, Emby
-host-keyword, 66699.tk, Emby
-# acemby
-host-keyword, acemby.org, Emby
-# paul
-host-keyword, embypaul.top, Emby
-host-keyword, bookpan.top, Emby
+HOST-KEYWORD,ikoumi.com
+
+# K卡戎
+HOST-KEYWORD,charontv.com
+
+# L垃圾影音
+HOST-KEYWORD,emby.ml
 # LION
-ip-cidr, 139.9.61.95/32, Emby
-# 翔翎 野鸡服
-ip-cidr, 152.67.227.57/32, Emby
-host-keyword, 20120714.xyz, Emby
-# 萌萌
-host-keyword, syq0806.top, Emby
-# studyfun
-host-keyword, studyfun, Emby
-# 杰尼龟
-host-keyword, dmesg.gq, Emby
-# 星光
-host-keyword, sana.emby.eu.org, Emby
-# 11盘 winson k
-host-keyword, 11pshare.tk, Emby
-host-keyword, happyav.eu.org, Emby
-ip-cidr, 18.141.10.156/32, Emby
-# Mildnes
-host-keyword, 091321.xyz, Emby
-host-keyword, usxx.xyz, Emby
+IP-CIDR,139.9.61.95/32
+
 # NMG Flim
-host-keyword, film.nmg.llc, Emby
-# 纸片人
-host-keyword, embyplus.org, Emby
-host, gd.9521732.xyz, Emby
-# Moonlight
-host-keyword, 1100000.xyz, Emby
+HOST-KEYWORD,film.nmg.llc
+# N奶库
+HOST-KEYWORD,nakonako.net
+HOST-KEYWORD,nakoemby.com
+IP-CIDR,20.205.38.244/32
+IP-CIDR,95.217.228.36/32
+
+# MJJ EMBY
+HOST-KEYWORD,mjjemby.org
+# Misty
+HOST-KEYWORD,misty.ltd
+# Misakaf
+HOST-KEYWORD,misakaf.org
+# M猫熊
+HOST-KEYWORD,emby.kim
+IP-CIDR,64.32.25.204/32
 # Mulgore
-host-keyword, 202.61.255.248, Emby
-# tank
-host-keyword, tank88.top, Emby
+HOST-KEYWORD,202.61.255.248
+IP-CIDR,202.61.255.248/32
+# M萌萌
+HOST-KEYWORD,syq0806,top
+# Moonlight
+HOST-KEYWORD,1100000.xyz
+
+# Odyssey+
+HOST-KEYWORD, odysseyplus
+# Orange
+HOST-KEYWORD,embytv.cf
+# Onlyfans
+HOST-KEYWORD,happyav.eu.org
+
+# Paul
+HOST-KEYWORD,embypaul.top
+HOST-KEYWORD,bookpan.top
+HOST-KEYWORD,imetyou.top
+# P品云
+HOST-KEYWORD,embyplus.club
+# Peach公益服
+HOST-KEYWORD,embymv.tk
+IP-CIDR, 209.97.173.144/32
+# Polo
+HOST-KEYWORD,poloemby.xyz
+HOST-KEYWORD,pololine.ml
 # Pornemby-网抑云
-ip-cidr, 195.201.86.86/32, Emby
+IP-CIDR,195.201.86.86/32
+
+# Studyfun
+HOST-KEYWORD,studyfun999.xyz
+HOST-KEYWORD,studyfun.live
+
+# T凸凸
+HOST-KEYWORD,v.usxx.xyz
+HOST-KEYWORD,xxlife.gay
+
+# Viper
+HOST-KEYWORD,agon.cf
+
+# X星光璀璨
+HOST-KEYWORD,emby.eu.org
+
+# Y野鸡服
+IP-CIDR,152.67.227.57/32
+HOST-KEYWORD,20120714.xyz
+
+# Z纸片人
+HOST-KEYWORD,embyplus.org
+HOST,gd.9521732.xyz
+
+# Z杂乱的X
+HOST-KEYWORD,dmesg.gq
+
 # 通用
-host-keyword, emby, Emby
-host-keyword, jellyfin, Emby
-host-keyword, alist, Emby
+HOST-KEYWORD,emby
+HOST-KEYWORD,jellyfin
+HOST-KEYWORD,alist
