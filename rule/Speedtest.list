@@ -13,4 +13,4 @@ HOST-SUFFIX,speed.cloudflare.com,Speedtest
 HOST-SUFFIX,speed.dler.io,Speedtest
 HOST-KEYWORD,speedtest,Speedtest
 USER-AGENT,SpeedTest*,Speedtest
-HOST-KEYWORD,test-ipv6.com,Speedtest
+HOST-KEYWORD,test-ipv6,Speedtest
