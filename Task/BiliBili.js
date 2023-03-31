@@ -1,5 +1,6 @@
 /*
 哔哩哔哩签到脚本
+原链接https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/Task/BiliBili.js
 
 更新时间: 2023-01-03
 脚本兼容: QuantumultX, Surge, Loon
