@@ -38,6 +38,8 @@ IP-CIDR,139.9.61.95/32
 
 # NMG Flim
 HOST-KEYWORD,film.nmg.llc
+HOST-KEYWORD,film.goodisp.org
+HOST-KEYWORD,film.chinaisp.org
 # N奶库
 HOST-KEYWORD,nakonako.net
 HOST-KEYWORD,nakoemby.com
