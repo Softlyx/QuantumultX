@@ -25,8 +25,6 @@ IP-CIDR,18.141.10.156/32
 HOST-KEYWORD,222921.xyz
 HOST-KEYWORD,bili.rip
 
-# Infinity
-HOST-KEYWORD,infinityfly.top
 # ikoumi
 HOST-KEYWORD,ikoumi.com
 
@@ -54,15 +52,10 @@ HOST-KEYWORD,mjjemby.org
 HOST-KEYWORD,misty.ltd
 # Misakaf
 HOST-KEYWORD,misakaf.org
-# M猫熊
-HOST-KEYWORD,emby.kim
-IP-CIDR,64.32.25.204/32
 # Mulgore
 HOST-KEYWORD,202.61.255.248
 HOST-KEYWORD,mulgore.net
 IP-CIDR,202.61.255.248/32
-# M萌萌
-HOST-KEYWORD,syq0806,top
 # Moonlight
 HOST-KEYWORD,1100000.xyz
 
@@ -101,9 +94,6 @@ HOST-KEYWORD,agon.cf
 # V6
 DOMAIN-KEYWORD,cybera.top
 
-# X星光璀璨
-HOST-KEYWORD,emby.eu.org
-
 # Y野鸡服
 IP-CIDR,152.67.227.57/32
 HOST-KEYWORD,20120714.xyz
@@ -111,9 +101,6 @@ HOST-KEYWORD,20120714.xyz
 # Z纸片人
 HOST-KEYWORD,embyplus.org
 HOST,gd.9521732.xyz
-
-# Z杂乱的X
-HOST-KEYWORD,dmesg.gq
 
 # 通用
 HOST-KEYWORD,emby
