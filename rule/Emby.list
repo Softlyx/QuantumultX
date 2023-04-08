@@ -81,6 +81,8 @@ HOST-KEYWORD,pololine.ml
 # Pornemby-网抑云
 IP-CIDR,195.201.86.86/32
 
+# 色拉
+HOST-KEYWORD,emby.selaplane.com
 # Studyfun
 HOST-KEYWORD,studyfun999.xyz
 HOST-KEYWORD,studyfun.live
