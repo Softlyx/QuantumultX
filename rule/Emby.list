@@ -70,6 +70,7 @@ IP-CIDR, 209.97.173.144/32
 # Polo
 HOST-KEYWORD,poloemby.xyz
 HOST-KEYWORD,pololine.ml
+HOST-KEYWORD,dnslink.ml
 # Pornemby-网抑云
 IP-CIDR,195.201.86.86/32
 
