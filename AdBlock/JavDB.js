@@ -9,7 +9,7 @@
 **************************************
 
 [rewrite_local]
-^https?:\/\/api\.pxxgg\.xyz\/api url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/JavDB.js
+^https?:\/\/api\.pxxgg\.xyz\/api url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/JavDB.js
 
 [mitm]
 hostname = api.pxxgg.xyz
