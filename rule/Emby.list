@@ -1,107 +1,98 @@
 # Acemby
-HOST-KEYWORD,acemby.org
+DOMAIN-SUFFIX,acemby.org
+DOMAIN-SUFFIX,zox.show
 
 # BDD
-HOST-KEYWORD,bddup.com
-IP-CIDR,124.95.187.106/32
-# BlueSea
-HOST-KEYWORD,blueseamusics.com
-HOST-KEYWORD,blueseacdn.com
-HOST-KEYWORD,bsem.ddns.me
-HOST-KEYWORD,bsem.otoou.com
-HOST-KEYWORD,bsyid.otoou.com
-# B白嫖王
-HOST-KEYWORD,ywang.cf
+DOMAIN-SUFFIX,bddup.com
+IP-CIDR,124.95.187.106/32,no-resolve
 
 # Cc公益服
-HOST-KEYWORD,ccemby.tk
+DOMAIN-KEYWORD,ccemby.tk
+
+# Didi影视
+DOMAIN-SUFFIX,newwan.top
 
 # G国际服
-HOST-KEYWORD,11pshare.tk
-HOST-KEYWORD,semby.ink
-IP-CIDR,18.141.10.156/32
+DOMAIN-SUFFIX,11pshare.tk
+DOMAIN-SUFFIX,semby.ink
+IP-CIDR,18.141.10.156/32,no-resolve
 
 # Hxd
-HOST-KEYWORD,222921.xyz
-HOST-KEYWORD,bili.rip
+DOMAIN-SUFFIX,bili.rip
 
 # ikoumi
-HOST-KEYWORD,ikoumi.com
+DOMAIN-SUFFIX,ikoumi.com
 
 # L垃圾影音
-HOST-KEYWORD,emby.ml
+DOMAIN-SUFFIX,emby.ml
 # LION
-IP-CIDR,139.9.61.95/32
+IP-CIDR,139.9.61.95/32,no-resolve
 
 # NMG Flim
-HOST-KEYWORD,film.nmg.llc
-HOST-KEYWORD,film.goodisp.org
-HOST-KEYWORD,film.chinaisp.org
+DOMAIN-SUFFIX,goodisp.org
 
-# Magie
-HOST-KEYWORD,emby.freetz.top
+# Magci
+DOMAIN-SUFFIX,freetz.top
 # MJJ EMBY
-HOST-KEYWORD,mjjemby.org
+DOMAIN-SUFFIX,mjjemby.org
 # Misty
-HOST-KEYWORD,misty.ltd
+DOMAIN-SUFFIX,misty.ltd
 # Misakaf
-HOST-KEYWORD,misakaf.org
+DOMAIN-SUFFIX,misakaf.org
 # Mulgore
-HOST-KEYWORD,202.61.255.248
-HOST-KEYWORD,mulgore.net
-IP-CIDR,202.61.255.248/32
+DOMAIN-KEYWORD,202.61.255.248
+IP-CIDR,202.61.255.248/32,no-resolve
+DOMAIN-SUFFIX,mulgore.net
 # Moonlight
-HOST-KEYWORD,1100000.xyz
+DOMAIN-SUFFIX,1100000.xyz
 
 # Odyssey+
-HOST-KEYWORD, odysseyplus
+DOMAIN-SUFFIX, odysseyplus.site
 # Orange
-HOST-KEYWORD,embytv.cf
+DOMAIN-SUFFIX,embytv.cf
 # Onlyfans
-HOST-KEYWORD,happyav.eu.org
+DOMAIN-SUFFIX,happyav.eu.org
 
 # Paul
-HOST-KEYWORD,embypaul.top
-HOST-KEYWORD,bookpan.top
-HOST-KEYWORD,imetyou.top
+DOMAIN-SUFFIX,embypaul.top
+DOMAIN-SUFFIX,bookpan.top
+DOMAIN-SUFFIX,imetyou.top
 # P品云
-HOST-KEYWORD,embyplus.club
+DOMAIN-SUFFIX,embyplus.club
 # Peach公益服
-HOST-KEYWORD,embymv.tk
-IP-CIDR, 209.97.173.144/32
+DOMAIN-SUFFIX,embymv.tk
+IP-CIDR, 209.97.173.144/32,no-resolve
 # Polo
-HOST-KEYWORD,poloemby.xyz
-HOST-KEYWORD,pololine.ml
-HOST-KEYWORD,dnslink.ml
+DOMAIN-SUFFIX,poloemby.xyz
 # Pornemby-网抑云
-IP-CIDR,195.201.86.86/32
+IP-CIDR,195.201.86.86/32,no-resolve
+
+# 忍者
+IP-CIDR, 136.243.73.179/32,no-resolve
 
 # 色拉
-HOST-KEYWORD,emby.selaplane.com
+DOMAIN-SUFFIX,selaplane.com
 # Studyfun
-HOST-KEYWORD,studyfun999.xyz
-HOST-KEYWORD,studyfun.live
+DOMAIN-SUFFIX,studyfun.live
 
 # T凸凸
-HOST-KEYWORD,v.usxx.xyz
-HOST-KEYWORD,v2.usxx.xyz
-HOST-KEYWORD,xxlife.gay
+DOMAIN-SUFFIX,usxx.xyz
+DOMAIN-SUFFIX,xxlife.gay
 
 # Viper
-HOST-KEYWORD,agon.cf
+DOMAIN-SUFFIX,agon.cf
 # V6
-DOMAIN-KEYWORD,cybera.top
+DOMAIN-SUFFIX,cybera.top
 
 # Y野鸡服
-IP-CIDR,152.67.227.57/32
-HOST-KEYWORD,20120714.xyz
+IP-CIDR,152.67.227.57/32,no-resolve
+DOMAIN-SUFFIX,20120714.xyz
 
 # Z纸片人
-HOST-KEYWORD,embyplus.org
-HOST,gd.9521732.xyz
+DOMAIN-SUFFIX,embyplus.org
+DOMAIN,gd.9521732.xyz
 
 # 通用
-HOST-KEYWORD,emby
-HOST-KEYWORD,jellyfin
-HOST-KEYWORD,alist
-HOST-KEYWORD,plex
+DOMAIN-KEYWORD,emby
+DOMAIN-KEYWORD,jellyfin
+DOMAIN-KEYWORD,alist
