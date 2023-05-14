@@ -1,39 +1,43 @@
 #圈X分流 安全浏览 解除限制
-host-suffix, safebrowsing.urlsec.qq.com, 广告拦截
-host-suffix, safebrowsing.googleapis.com, 广告拦截
-host-suffix, lookup.api.bsb.baidu.com, 广告拦截
+host-suffix, safebrowsing.urlsec.qq.com
+host-suffix, safebrowsing.googleapis.com
+host-suffix, lookup.api.bsb.baidu.com
 
 # 爱思极速版去开屏广告
-host, d.image.i4.cn, 广告拦截
+host, d.image.i4.cn
 
 # 知乎AD屏蔽
 domain, 118.89.204.198, 广告拦截
-domain-keyword, 118.89.204.198, 广告拦截
-ip-cidr, 118.89.204.198/32, 广告拦截
-host, appcloud2.in.zhihu.com, 广告拦截
-host, mqtt.zhihu.com, 广告拦截
-host, sugar.zhihu.com, 广告拦截
-user-agent, avos*, 广告拦截
+domain-keyword, 118.89.204.198
+ip-cidr, 118.89.204.198/32
+host, appcloud2.in.zhihu.com
+host, mqtt.zhihu.com
+host, sugar.zhihu.com
+user-agent, avos*
 
 # HDOBOX影视App去广告
-host-suffix, applovin.com, 广告拦截
-host-suffix, applvn.com, 广告拦截
-host-suffix, doubleclick.net, 广告拦截
+host-suffix, applovin.com
+host-suffix, applvn.com
+host-suffix, doubleclick.net
 
 # 网络播放去广告
-host, googleads.g.doubleclick.net, 广告拦截
+host, googleads.g.doubleclick.net
 
 # YouTube 去底部广告
-host-suffix, ehg-youtube.hitbox.com, 广告拦截
+host-suffix, ehg-youtube.hitbox.com
 
 # 避免迅雷版权问题
-host, hub5idx.v6.shub.sandai.net, 广告拦截
-host, hub5emu.v6.shub.sandai.net, 广告拦截
-host, hub5btmain.v6.shub.sandai.net, 广告拦截
+host, hub5idx.v6.shub.sandai.net
+host, hub5emu.v6.shub.sandai.net
+host, hub5btmain.v6.shub.sandai.net
 
 # 贴吧AD处理
-ip-cidr,180.76.76.200/32,广告拦截
-host,im.tieba.baidu.com,广告拦截
+ip-cidr,180.76.76.200/32
+host,im.tieba.baidu.com
 
 # 高德地图
-host, amdc.m.taobao.com, 广告拦截
+host, amdc.m.taobao.com
+
+# 新浪邮箱
+host-keyword, pangolin
+host-suffix, gdt.qq.com
