@@ -1,18 +1,10 @@
-/*************************************
 
-项目名称：JavDB-去广告
-下载地址：https://javdb008.com
-脚本作者：chxm1023
-电报频道：https://t.me/chxm1023
-使用声明：⚠️仅供参考，🈲转载与售卖！
-
-**************************************
 
 [rewrite_local]
-^https?:\/\/api\.pxxgg\.xyz\/api url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/JavDB.js
+^https:\/\/api\.ujvnmkx\.cn\/api url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/JavDB.js
 
 [mitm]
-hostname = api.pxxgg.xyz
+hostname = api.ujvnmkx.cn
 
 *************************************/
 
