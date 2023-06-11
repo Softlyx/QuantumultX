@@ -1,4 +1,4 @@
-
+/*************************************
 
 [rewrite_local]
 ^https:\/\/api\.ujvnmkx\.cn\/api url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/AdBlock/JavDB.js
