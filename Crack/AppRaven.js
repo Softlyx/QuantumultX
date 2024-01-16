@@ -1,36 +1,29 @@
 /***********************************************
 
-> 应用名称：墨鱼自用AppRaven脚本
-> 脚本作者：@ddgksf2013
-> 微信账号：墨鱼手记
-> 更新时间：2023-07-24
-> 通知频道：https://t.me/ddgksf2021
-> 贡献投稿：https://t.me/ddgksf2013_bot
-> 问题反馈：ddgksf2013@163.com
-> 特别提醒：如需转载请注明出处，谢谢合作！
-> 解锁功能：界面美化[主界面APP应用内购买灰色框太难看了]、使用会员图标功能
-
 
 [rewrite_local]
 
-^https?:\/\/v2\.appraven\.net\/appraven\/graphql url script-response-body https://gist.githubusercontent.com/ddgksf2013/562f8fd6a40be92d7c8b358aa25eab3f/raw/appraven.vip.js
+^https?:\/\/appraven\.net\/AppRaven\/(app|social|buy) url script-response-body APPraven.vip.js
 
 [mitm]
 
-hostname = v2.appraven.net
+hostname = appraven.net
 
 ***********************************************/
+var url = $request.url;
+var obj = JSON.parse($response.body);
+const tmp1 = '/AppRaven/app';
+const tmp2 = '/AppRaven/social';
+const tmp3 = '/AppRaven/buy';
 
-
-
-
-
-var modifiedHeaders = $request.headers;
-var operationName = modifiedHeaders['X-APOLLO-OPERATION-NAME'];
-
-if (operationName == "GetCurrentUser"||operationName == "GetUserById") {
-  var body = $response.body.replace(/"premium":false/g, '"premium":true');
-  $done({ body: body });
-} else {
-  $done({});
+if (url.indexOf(tmp1) != -1) {
+ var body = $response.body.replace(/premium": false/g, 'premium": true');
 }
+if (url.indexOf(tmp2) != -1) {
+ var body = $response.body.replace(/premium": false/g, 'premium": true');
+}
+if (url.indexOf(tmp3) != -1) {
+ obj={"success":true,"message":"1896165181","isReceiptValid":true,"isSubscriptionActive":true};
+ body = JSON.stringify(obj);
+}
+$done({body});
