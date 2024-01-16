@@ -3,12 +3,12 @@
 
 [rewrite_local]
 
-^https?:\/\/*\.appraven\.net\/AppRaven\/(app|social|buy) url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/Crack/AppRaven.js
+^https?:\/\/*appraven\.net\/AppRaven\/(app|social|buy) url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/Crack/AppRaven.js
 
 
 [mitm]
 
-hostname = *.appraven.net
+hostname = *appraven.net
 
 ***********************************************/
 var modifiedHeaders = $request.headers;
