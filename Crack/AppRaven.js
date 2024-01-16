@@ -5,10 +5,12 @@
 [rewrite_local]
 
 ^https?:\/\/.*appraven\.net\/appraven\/graphql url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/Crack/AppRaven.js
+^https?:\/\/v2\.appraven\.net\/appraven\/graphql url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/Crack/AppRaven.js
+
 
 [mitm]
 
-hostname = *appraven.net
+hostname = *appraven.net,v2.appraven.net
 
 ***********************************************/
 
