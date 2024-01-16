@@ -3,7 +3,7 @@
 
 [rewrite_local]
 
-^https?:\/\/*\.appraven\.net\/AppRaven\/(app|social|buy) url script-response-body APPraven.vip.js
+^https?:\/\/*\.appraven\.net\/AppRaven\/(app|social|buy) url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/Crack/AppRaven.js
 
 
 [mitm]
