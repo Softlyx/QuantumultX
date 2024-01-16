@@ -13,7 +13,7 @@
 
 [rewrite_local]
 
-^https?:\/\/.*appraven\.net\/appraven\/graphql url script-response-body https://gist.githubusercontent.com/ddgksf2013/562f8fd6a40be92d7c8b358aa25eab3f/raw/appraven.vip.js
+^https?:\/\/.*appraven\.net\/appraven\/graphql url script-response-body https://raw.githubusercontent.com/Softlyx/QuantumultX/main/Crack/AppRaven.js
 
 [mitm]
 
